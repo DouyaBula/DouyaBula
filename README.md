@@ -1,1 +1,7 @@
-![7acd133c59211cce43ab252c3374c88b](https://github.com/DouyaBula/DouyaBula/assets/52826495/0bd88ca6-ff26-481a-b7db-6d4ebc68bd67)
+contact different me!
+
+![line](README/line.png)
+
+| [osu!](https://osu.ppy.sh/users/13859320) | [bilibili](https://space.bilibili.com/36175858) | [qq](https://2500256170.qq) | [wechat](https://Doooxel) | [zhihu](https://www.zhihu.com/people/douya-73) | [github](https://github.com/DouyaBula) |
+| ----------------------------------------- | ----------------------------------------------- | --------------------------- | ------------------------- | ---------------------------------------------- | -------------------------------------- |
+
